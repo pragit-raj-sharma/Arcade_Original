@@ -1,2 +1,2 @@
-# Arcade_Original
+# Arcade-Original
 Gonna update it soon.
