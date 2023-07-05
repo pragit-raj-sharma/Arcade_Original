@@ -316,8 +316,8 @@ Header Style
 */
 
 .background-header {
-  background-color: #fff !important;
-  height: 70px!important;
+  background-color: #000000 !important;
+  height: 80px!important;
   position: fixed!important;
   top: 0!important;
   left: 0;
@@ -394,7 +394,7 @@ Header Style
 }
 
 .background-header .main-nav .logo {
-  margin-top: 8px;
+  margin-top: 1px;
 }
 
 .background-header .main-nav .logo img {
